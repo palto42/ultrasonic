@@ -31,9 +31,9 @@ tasks.create(name: 'jacocoFullReport', type: JacocoReport, dependsOn: 'jacocoMer
     group = "Reporting"
     description = "Generate full Jacoco coverage report including all modules."
 
-    classDirectories = files()
-    sourceDirectories = files()
-    executionData = files()
+    classDirectories.from = files()
+    sourceDirectories.from = files()
+    executionData.from = files()
 
     reports {
         xml.enabled = true
