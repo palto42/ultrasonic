@@ -355,7 +355,7 @@
     <string name="download.menu_clear_playlist">Wiedergabeliste löschen</string>
     <string name="button_bar.shares">Freigaben</string>
     <string name="select_share.empty">Keine Freigaben auf dem Server verfügbar</string>
-    <string name="menu_deleted_share">Freigabe löschen</string>
+    <string name="menu_deleted_share">Freigabe %s gelöscht</string>
     <string name="menu_deleted_share_error">Löschen der Freigabe %s fehlgeschlagen</string>
     <string name="settings.share_milliseconds">Millisekunden</string>
     <string name="settings.share_seconds">Sekunden</string>
