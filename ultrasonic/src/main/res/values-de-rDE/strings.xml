@@ -3,7 +3,7 @@
 
     <string name="background_task.loading">Lade…</string>
     <string name="background_task.network_error">Ein Netzwerkfehler ist aufgetreten. Bitte die Serveradresse prüfen oder später noch einmal versuchen.</string>
-    <string name="background_task.no_network">Dieses Programm benötigt Netzwerkzugang. Bitte das WLAN oder Mobilfunk einschalten.</string>
+    <string name="background_task.no_network">Dieses Programm benötigt eine Netzwerkverbindung. Bitte das WLAN oder Mobilfunk einschalten.</string>
     <string name="background_task.not_found">Rseource nicht gefunden. Bitte die Serveradresse überprüfen.</string>
     <string name="background_task.parse_error">Antwort nicht verstanden. Bitte die Serveradresse überprüfen.</string>
     <string name="background_task.ssl_cert_error">HTTPS Zertifikatsfehler: %1$s.</string>
@@ -45,11 +45,10 @@
     <string name="download.empty">Wiedergabeliste ist leer</string>
     <string name="download.jukebox_not_authorized">
         Fernbedienung ist nicht erlaubt. Bitte Jukebox Modus auf dem Subsonic Server in
-        <b>Benutzer > Einstellungen </b>
-        aktivieren.
+        <b>Benutzer > Einstellungen</b> aktivieren.
     </string>
     <string name="download.jukebox_off">Fernbedienung ausgeschaltet. Musik wird auf dem Telefon wiedergegeben.</string>
-    <string name="download.jukebox_offline">Fernbedienungs Modus is Offline nicht verfügbar.</string>
+    <string name="download.jukebox_offline">Fernbedienungs-Modus is Offline nicht verfügbar.</string>
     <string name="download.jukebox_on">Fernbedienung ausgeschaltet. Musik wird auf dem Server wiedergegeben.</string>
     <string name="download.jukebox_server_too_old">Fernbedienungs Modus wird nicht unterstützt. Bitte den Subsonic Server aktualisieren.</string>
     <string name="download.jukebox_volume">Entfernte Lautstärke</string>
@@ -64,25 +63,25 @@
     <string name="download.menu_show_album">Album anzeigen</string>
     <string name="download.menu_shuffle">Mischen</string>
     <string name="download.menu_shuffle_notification">Die Wiedergabeliste wurde gemischt</string>
-    <string name="download.menu_visualizer">Graphik</string>
+    <string name="download.menu_visualizer">Grafik</string>
     <string name="download.playerstate_buffering">Zwischenspeichern</string>
     <string name="download.playerstate_downloading">Herunterladen - %s</string>
     <string name="download.playerstate_playing_shuffle">Wiedergabeliste mischen</string>
     <string name="download.playlist_done">Die Wiedergabeliste wurde gespeichert</string>
-    <string name="download.playlist_error">Das speichern der Wiedergabeliste schlug fehl, bitte später erneut versuchen.</string>
+    <string name="download.playlist_error">Konnte die Wiedergabeliste nicht speichern, bitte später erneut versuchen.</string>
     <string name="download.playlist_name">Namen der Wiedergabeliste eingeben:</string>
     <string name="download.playlist_saving">Speichere Wiedergabeliste %s...</string>
     <string name="download.playlist_title">Wiedergabeliste speichern</string>
     <string name="download.repeat_all">Alles wiederholen</string>
-    <string name="download.repeat_off">Wiederholern aus</string>
+    <string name="download.repeat_off">Wiederholen aus</string>
     <string name="download.repeat_single">Titel wiederholen</string>
-    <string name="download.visualizer_off">Graphik ausgeschaltet</string>
-    <string name="download.visualizer_on">Graphik eingeschaltet</string>
+    <string name="download.visualizer_off">Grafik ausgeschaltet</string>
+    <string name="download.visualizer_on">Grafik eingeschaltet</string>
     <string name="equalizer.enabled">Aktiviert</string>
     <string name="equalizer.label">Equalizer</string>
     <string name="equalizer.preset">Voreinstellung wählen</string>
     <string name="error.label">Fehler</string>
-    <string name="help.url">file:///android_asset/html/en/index.html</string>
+    <string name="help.url">file:///android_asset/html/de/index.html</string>
     <string name="jukebox.is_default">Jukebox als Standard</string>
     <string name="lyrics.nomatch">Keine Liedtexte gefunden</string>
     <string name="main.albums_alphaByArtist">Nach Künstler</string>
@@ -105,13 +104,8 @@
     <string name="main.songs_title">Titel</string>
     <string name="main.videos">Filme</string>
     <string name="main.welcome_text">
-        Willkommen bei UltraSonic! Die App ist zurzeit nicht konfiguriert. Nachdem du deinen persönlichen Server konfiguriert hast (siehe
-        <b>subsonic.org</b>
-        ), bitte
-        <i>Server hinzufügen</i>
-        in den
-        <b>Einstellungen</b>
-        klicken um die Verbindun herzustellen.
+        Willkommen bei UltraSonic! Die App ist zurzeit unkonfiguriert. Nachdem du deinen Server konfiguriert hast (siehe
+        <b>subsonic.org</b>), bitte <i>Server hinzufügen</i> in den <b>Einstellungen</b> klicken um die Verbindun herzustellen.
     </string>
     <string name="main.welcome_title">Willkommen</string>
     <string name="menu.about">Über</string>
@@ -128,28 +122,28 @@
     <string name="parser.reading">Lese vom Server.</string>
     <string name="parser.reading_done">Lese vom Server. Fertig!</string>
     <string name="playlist.label">Wiedergabelisten</string>
-    <string name="playlist.update_info">Aktualisierungsinformationen</string>
+    <string name="playlist.update_info">Aktualisierungs-Informationen</string>
     <string name="playlist.updated_info">Wiedergabeliste für %s aktualisiert</string>
-    <string name="playlist.updated_info_error">Aktualisierung der Wiedergabeliste %s fehlgeschlagen</string>
-    <string name="progress.wait">Bitte warten...</string>
+    <string name="playlist.updated_info_error">Aktualisierung der Wiedergabeliste %s ist fehlgeschlagen</string>
+    <string name="progress.wait">Bitte warten…</string>
     <string name="search.albums">Alben</string>
     <string name="search.artists">Künstler</string>
     <string name="search.label">Suche</string>
     <string name="search.more">Zeige mehr</string>
     <string name="search.no_match">Keine Treffer, bitte erneut versuchen</string>
-    <string name="search.search">Zur Suche klicken</string>
+    <string name="search.search">Neue Suche</string>
     <string name="search.songs">Titel</string>
     <string name="search.title">Suche</string>
     <string name="select_album.donate_dialog_0_trial_days_left">Testperiode zu Ende</string>
     <string name="select_album.donate_dialog_later">Später</string>
-    <string name="select_album.donate_dialog_message">Unbegresnze Downloads bei Spence an Sunsonic</string>
+    <string name="select_album.donate_dialog_message">Unbegresnze Downloads bei Spende an Sunsonic</string>
     <string name="select_album.donate_dialog_now">Jetzt</string>
     <string name="select_album.empty">Keine Medien gefunden</string>
     <string name="select_album.n_selected">%d Titel ausgewählt.</string>
     <string name="select_album.n_unselected">%d Titel abgewählt.</string>
     <string name="select_album.no_network">Warnung: kein Netz.</string>
     <string name="select_album.no_sdcard">Fehler: Keine SD Karte verfügbar.</string>
-    <string name="select_album.not_licensed">Server nicht lizensiert. %d verbleibende Testtage</string>
+    <string name="select_album.not_licensed">Server nicht lizenziert. Noch %d Testtage</string>
     <string name="select_album.play_all">Alles wiedergeben</string>
     <string name="select_artist.all_folders">Alle Ordner</string>
     <string name="select_artist.folder">Ordner wählen</string>
@@ -172,9 +166,9 @@
     <string name="settings.buffer_length_5">5 Sekunden</string>
     <string name="settings.buffer_length_60">1 Minute</string>
     <string name="settings.buffer_length_8">8 Sekunden</string>
-    <string name="settings.cache_location">Ort des Zwischenspeichers</string>
-    <string name="settings.cache_location_error">Ungültiger Ort des Zwichenspeichers, nutze Standard.</string>
-    <string name="settings.cache_size">Größe des Zwischenspeichers</string>
+    <string name="settings.cache_location">Ort des Caches</string>
+    <string name="settings.cache_location_error">Ungültiger Ort des Caches, nutze Standard.</string>
+    <string name="settings.cache_size">Größe des Caches</string>
     <string name="settings.cache_size_100">100 MB</string>
     <string name="settings.cache_size_1000">1 GB</string>
     <string name="settings.cache_size_10000">10 GB</string>
@@ -193,12 +187,12 @@
     <string name="settings.cache_size_8000">8 GB</string>
     <string name="settings.cache_size_9000">9 GB</string>
     <string name="settings.cache_size_unlimited">Unbegrenzt</string>
-    <string name="settings.cache_title">Musik Zwischenspeicher</string>
+    <string name="settings.cache_title">Musik Cache</string>
     <string name="settings.chat_refresh">Chat Aktualisierungsintervall</string>
     <string name="settings.clear_bookmark">Lesezeichen löschen</string>
-    <string name="settings.clear_bookmark_summary">Lesezeichen nach wiedergabe löschen</string>
+    <string name="settings.clear_bookmark_summary">Lesezeichen nach Wiedergabe löschen</string>
     <string name="settings.clear_playlist">Wiedergabeliste löschen</string>
-    <string name="settings.clear_playlist_summary">Wiedergableliste nach wiedergabe aller Titel löschen</string>
+    <string name="settings.clear_playlist_summary">Wiedergableliste nach Wiedergabe aller Titel löschen</string>
     <string name="settings.clear_search_history">Suchverlauf löschen</string>
     <string name="settings.connection_failure">Verbindungsfehler</string>
     <string name="settings.default_albums">Standard Alben</string>
@@ -215,14 +209,14 @@
     <string name="settings.disc_sort">Sortiere Titel nach CD</string>
     <string name="settings.disc_sort_summary">Sortierung der Titelliste nach CD-Nummer und Titelnummer</string>
     <string name="settings.display_bitrate">Bitrate und Dateiendung zeigen</string>
-    <string name="settings.display_bitrate_summary">Künstlername mit Bitrate und Dateierweiterung anhängen</string>
-    <string name="settings.download_transition">Downloads bei der Wiedergabe anzeigen</string>
-    <string name="settings.download_transition_summary">Herunterladen beim Start der Wiedergabe</string>
+    <string name="settings.display_bitrate_summary">Bitrate und Dateityp hinter dem Künstler anzeigen</string>
+    <string name="settings.download_transition">Herunterladen bei Wiedergabe</string>
+    <string name="settings.download_transition_summary">Herunterladen zusammen mit der Wiedergabe starten.</string>
     <string name="settings.gapless_playback">Lückenlose Wiedergabe</string>
     <string name="settings.gapless_playback_summary">Lückenlose Wiedergabe aktivieren</string>
     <string name="settings.hide_media_summary">Musikdateien vor anderen Apps verbergen</string>
     <string name="settings.hide_media_title">Vor anderen verbergen</string>
-    <string name="settings.hide_media_toast">Wird beim nächsten Scannen nach Musik durch Android wirksam.</string>
+    <string name="settings.hide_media_toast">Wird beim nächsten Durchsuchen nach Musik durch Android wirksam.</string>
     <string name="settings.increment_time">Sprunglänge</string>
     <string name="settings.invalid_url">Bitte eine gültige URL angeben.</string>
     <string name="settings.invalid_username">Bitte einen gültigen Benutzernamen eingeben (ohne führende Leerzeichen).</string>
@@ -264,11 +258,11 @@
     <string name="settings.preload_3">3 Titel</string>
     <string name="settings.preload_5">5 Titel</string>
     <string name="settings.preload_unlimited">Unbegrenzt</string>
-    <string name="settings.playback.resume_play_on_headphones_plug.title">Fortsetzen beim Einsetzen der Kopfhörer</string>
-    <string name="settings.playback.resume_play_on_headphones_plug.summary">Die App setzt die pausierte Wiedergabe beim Einsetzen der Kopfhörer in das Gerät fort.</string>
+    <string name="settings.playback.resume_play_on_headphones_plug.title">Fortsetzen mit Kopfhörer</string>
+    <string name="settings.playback.resume_play_on_headphones_plug.summary">Die App setzt eine pausierte Wiedergabe beim Anschließen der Kopfhörer fort.</string>
     <string name="settings.screen_lit_summary">Wenn der Bildschirm während des Herunterladens eingeschaltet bleibt, wird die Download-Geschwindigkeit verbessert.</string>
     <string name="settings.screen_lit_title">Bildschirm eingeschaltet lassen</string>
-    <string name="settings.scrobble_summary">Denken Sie daran, Ihren Last.fm-Benutzer und Ihr Passwort auf dem Subsonic-Server einzurichten.</string>
+    <string name="settings.scrobble_summary">Denken Sie daran, Ihren Last.fm-Benutzer und Ihr Kennwort auf dem Subsonic-Server einzurichten.</string>
     <string name="settings.scrobble_title">Scrobble To Last.fm</string>
     <string name="settings.search_1">1</string>
     <string name="settings.search_10">10</string>
@@ -285,22 +279,22 @@
     <string name="settings.search_500">500</string>
     <string name="settings.search_75">75</string>
     <string name="settings.search_history_cleared">Search history cleared</string>
-    <string name="settings.search_title">Einstellungen durchsuchen</string>
+    <string name="settings.search_title">Sucheinstellungen</string>
     <string name="settings.send_bluetooth_album_art_summary">Albumcover über Bluetooth versenden (kann dazu führen, dass Bluetooth-Benachrichtigungen fehlschlagen)</string>
     <string name="settings.send_bluetooth_album_art">Album Cover über Bluetooth</string>
     <string name="settings.send_bluetooth_notification_summary">Wiedergabe-Benachrichtigungen über Bluetooth senden</string>
-    <string name="settings.send_bluetooth_notification">Bluetooth-Benachrichtigung senden</string>
+    <string name="settings.send_bluetooth_notification">Bluetooth-Benachrichtigung</string>
     <string name="settings.server_add_server">Server hinzufügen</string>
     <string name="settings.server_address">Server Adresse</string>
     <string name="settings.server_name">Name</string>
-    <string name="settings.server_password">Passwort</string>
+    <string name="settings.server_password">Kennwort</string>
     <string name="settings.server_remove_server">Server entfernen</string>
-    <string name="settings.server_scaling_summary">Skalierte Bilder vom Server laden (spart Bandbreite)</string>
-    <string name="settings.server_scaling_title">Serverseitige Skalierung der Alben Cover</string>
+    <string name="settings.server_scaling_summary">Skalierte Cover vom Server laden (spart Bandbreite)</string>
+    <string name="settings.server_scaling_title">Serverseitige Skalierung der Cover</string>
     <string name="settings.server_unused">Unbenutzt</string>
     <string name="settings.server_username">Benutzername</string>
     <string name="settings.servers_title">Server</string>
-    <string name="settings.show_lockscreen_controls">Steuerelemente auf dem Sperrbildschirm anzeigen</string>
+    <string name="settings.show_lockscreen_controls">Steuerelemente auf Sperrbildschirm</string>
     <string name="settings.show_lockscreen_controls_summary">Wiedergabeelemente auf dem Sperrbildschirm anzeigen</string>
     <string name="settings.show_notification">Benachrichtigungen anzeigen</string>
     <string name="settings.show_notification_always">Immer Benachrichtigungen zeigen</string>
@@ -309,7 +303,7 @@
     <string name="settings.show_now_playing">Aktuellen Titel anzeigen</string>
     <string name="settings.show_now_playing_summary">Aktuellen Titel in allen Aktivitäten anzeigen</string>
     <string name="settings.show_track_number">Titelnummer anzeigen</string>
-    <string name="settings.show_track_number_summary">Titelnummer mit anzeigen</string>
+    <string name="settings.show_track_number_summary">Titel mit Nummer anzeigen</string>
     <string name="settings.test_connection_title">Verbindung testen</string>
     <string name="settings.testing_connection">Teste Verbindung…</string>
     <string name="settings.testing_ok">Verbindung OK</string>
@@ -317,10 +311,10 @@
     <string name="settings.theme_dark">Dunkel</string>
     <string name="settings.theme_light">Hell</string>
     <string name="settings.theme_title">Thema</string>
-    <string name="settings.title.allow_self_signed_certificate">Selbst signierte HTTPS Zertifikate erlauben</string>
+    <string name="settings.title.allow_self_signed_certificate">Selbst-signierte HTTPS Zertifikate erlauben</string>
     <string name="settings.title.enable_ldap_users_support">LDAP Benutzeranmeldung aktivieren</string>
     <string name="settings.summary.enable_ldap_users_support">
-        Dies zwingt die App, das Passwort immer auf die alte Weise zu senden, da Subsonic api keine neue Autorisierung für LDAP-Benutzer unterstützt.
+        Dies zwingt die App, das Kennwort immer auf die alte Weise zu senden, da Subsonic api keine neue Autorisierung für LDAP-Benutzer unterstützt.
     </string>
 
     <string name="settings.use_folder_for_album_artist">Nutze Ordner für Künstlernamen</string>
@@ -350,7 +344,7 @@
     <string name="util.bytes_format.megabyte">0.00 MB</string>
     <string name="util.no_time">-:--</string>
     <string name="util.zero_time">0:00</string>
-    <string name="video.get_mx_player_text">MX Player ist nicht installiert. Holen Sie ihn sich kostenlos im Play Store, oder ändern Sie die Videoeinstellungen.</string>
+    <string name="video.get_mx_player_text">MX Player ist nicht installiert. Holen Sie ihn sich kostenlos im Play Store, oder ändern Sie die Filmeinstellungen.</string>
     <string name="video.get_mx_player_button">MX Player holen</string>
     <string name="widget.initial_text">Berühren, um Musik auszuwählen</string>
     <string name="widget.sdcard_busy">SD Karte nicht verfügbar</string>
@@ -385,18 +379,18 @@
     <string name="download_song_removed">%s wurde von der Wiedergabeliste entfernt</string>
     <string name="download.share_playlist">Wiedergabeliste teilen</string>
     <string name="settings.share_greeting_default">Standard Begrüßung beim Teilen</string>
-    <string name="share_default_greeting">Hör dir mal die Musik con %s an, die ich mit dir geteilt habe</string>
+    <string name="share_default_greeting">Hör dir mal die Musik an, die ich mit dir über %s geteilt habe.</string>
     <string name="share_via">Titel teilen über</string>
     <string name="settings.video_mx_player">MX Player</string>
     <string name="settings.video_default">Standard</string>
     <string name="settings.video_flash">Flash</string>
     <string name="menu.share">Freigabe</string>
-    <string name="select_album_all_songs">Alle Titelel von %s</string>
-    <string name="settings.show_all_songs_by_artist">Alle Titel nach Künstler sortiert anzeigen</string>
+    <string name="select_album_all_songs">Alle Titel von %s</string>
+    <string name="settings.show_all_songs_by_artist">Alle Titel nach Künstler sortieren</string>
     <string name="settings.show_all_songs_by_artist_summary">Einen neuen Eintrag in der Künstleransicht hinzufügen, um auf alle Lieder eines Künstlers zuzugreifen</string>
     <string name="download.menu_show_artist">Künstler zeigen</string>
     <string name="settings.scan_media">Medien nach Download durchsuchen</string>
-    <string name="settings.scan_media_summary">Medien nach dem Herunterladen automatisch scannen</string>
+    <string name="settings.scan_media_summary">Medien nach dem Herunterladen automatisch durchsuchen</string>
     <string name="settings.image_loader_concurrency">Paralleles laden von Bildern</string>
     <string name="settings.image_loader_concurrency_1">1</string>
     <string name="settings.image_loader_concurrency_2">2</string>
@@ -412,7 +406,7 @@
     <string name="settings.image_loader_concurrency_12">12</string>
     <string name="albumArt">Album Cover</string>
     <string name="common_multiple_years">Mehrere Jahre</string>
-    <string name="settings.server_address_unset" translatable="false">http://example.com</string>
+    <string name="settings.server_address_unset" translatable="false">https://mein-server.de</string>
 
     <plurals name="select_album_n_songs">
         <item quantity="one">1 Titel</item>
@@ -444,21 +438,21 @@
     </plurals>
 
     <!-- Subsonic api errors -->
-    <string name="api.subsonic.generic">Generic api error: %1$s</string>
+    <string name="api.subsonic.generic">Allgemeiner API Fehler: %1$s</string>
     <string name="api.subsonic.generic.no.message">Keine Nachricht vom Server erhalten</string>
     <string name="api.subsonic.token_auth_not_supported_for_ldap">Autorisirung mit Token ist für LDAP Benutzer nicht möglich.</string>
-    <string name="api.subsonic.not_authenticated">Falscher Benutzername oder Passwort.</string>
+    <string name="api.subsonic.not_authenticated">Falscher Benutzername oder Kennwort.</string>
     <string name="api.subsonic.not_authorized">Nicht autorisiert. Bitte die Rechte auf dem Subsonic Server überprüfen.</string>
     <string name="api.subsonic.param_missing">Erforderlicher Parameter fehlt.</string>
     <string name="api.subsonic.requested_data_was_not_found">Angeforderte Daten nicht gefunden.</string>
     <string name="api.subsonic.trial_period_is_over">Der Testzeitraum ist abgelaufen.</string>
-    <string name="api.subsonic.upgrade_client">Inkompatible versionen. Bitte die UltraSonic App aktualisieren.</string>
+    <string name="api.subsonic.upgrade_client">Inkompatible Versionen. Bitte die UltraSonic App aktualisieren.</string>
     <string name="api.subsonic.upgrade_server">Inkompatible Versionen. Bitte den subsonic Server aktualisieren..</string>
 
     <string name="feature_flags_image_loader_title">Neuen Bild-Lader aktivieren</string>
     <string name="feature_flags_image_loader_description">
         Neuen Bild-Lader aktivieren. Bilder werden derzeit nur im Chache gespeichert.
     </string>
-    <string name="feature_flags_category_title">Feature Flags</string>
+    <string name="feature_flags_category_title">Funktionseinstellungem</string>
 
 </resources>
