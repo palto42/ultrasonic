@@ -442,6 +442,10 @@
 
     <string name="feature_flags_image_loader_title">Neuen Bild-Lader aktivieren</string>
     <string name="feature_flags_image_loader_description">Neuen Bild-Lader aktivieren. Bilder werden derzeit nur im Chache gespeichert.</string>
+    <string name="feature_flags_five_star_rating_title">Nutze 5-Sterne-Bewertung für Titel</string>
+    <string name="feature_flags_five_star_rating_description">Verwende 5-Sterne-Bewertungen für Titel
+        statt des einfachen Stern/kein Stern markierens.
+    </string>
     <string name="feature_flags_category_title">Funktionseinstellungem</string>
 
 </resources>
