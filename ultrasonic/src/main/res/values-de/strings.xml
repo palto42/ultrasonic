@@ -43,10 +43,7 @@
     <string name="download.bookmark_removed">Lesezeichen entfernt</string>
     <string name="download.bookmark_set_at_position">Lesezeichen gesetzt als %s.</string>
     <string name="download.empty">Wiedergabeliste ist leer</string>
-    <string name="download.jukebox_not_authorized">
-        Fernbedienung ist nicht erlaubt. Bitte Jukebox Modus auf dem Subsonic Server in
-        <b>Benutzer > Einstellungen</b> aktivieren.
-    </string>
+    <string name="download.jukebox_not_authorized">Fernbedienung ist nicht erlaubt. Bitte Jukebox Modus auf dem Subsonic Server in <b>Benutzer > Einstellungen</b> aktivieren.</string>
     <string name="download.jukebox_off">Fernbedienung ausgeschaltet. Musik wird auf dem Telefon wiedergegeben.</string>
     <string name="download.jukebox_offline">Fernbedienungs-Modus is Offline nicht verfügbar.</string>
     <string name="download.jukebox_on">Fernbedienung ausgeschaltet. Musik wird auf dem Server wiedergegeben.</string>
@@ -103,10 +100,7 @@
     <string name="main.songs_starred">Mit Stern</string>
     <string name="main.songs_title">Titel</string>
     <string name="main.videos">Filme</string>
-    <string name="main.welcome_text">
-        Willkommen bei UltraSonic! Die App ist zurzeit unkonfiguriert. Nachdem du deinen Server konfiguriert hast (siehe
-        <b>subsonic.org</b>), bitte <i>Server hinzufügen</i> in den <b>Einstellungen</b> klicken um die Verbindun herzustellen.
-    </string>
+    <string name="main.welcome_text">Willkommen bei UltraSonic! Die App ist zurzeit unkonfiguriert. Nachdem du deinen Server konfiguriert hast (siehe <b>subsonic.org</b>), bitte <i>Server hinzufügen</i> in den <b>Einstellungen</b> klicken um die Verbindun herzustellen.</string>
     <string name="main.welcome_title">Willkommen</string>
     <string name="menu.about">Über</string>
     <string name="menu.common">Allgemein</string>
@@ -313,10 +307,7 @@
     <string name="settings.theme_title">Thema</string>
     <string name="settings.title.allow_self_signed_certificate">Selbst-signierte HTTPS Zertifikate erlauben</string>
     <string name="settings.title.enable_ldap_users_support">LDAP Benutzeranmeldung aktivieren</string>
-    <string name="settings.summary.enable_ldap_users_support">
-        Dies zwingt die App, das Kennwort immer auf die alte Weise zu senden, da Subsonic api keine neue Autorisierung für LDAP-Benutzer unterstützt.
-    </string>
-
+    <string name="settings.summary.enable_ldap_users_support">Dies zwingt die App, das Kennwort immer auf die alte Weise zu senden, da Subsonic api keine neue Autorisierung für LDAP-Benutzer unterstützt.</string>
     <string name="settings.use_folder_for_album_artist">Nutze Ordner für Künstlernamen</string>
     <string name="settings.use_folder_for_album_artist_summary">Annehmen, dass der Ordner der obersten Ebene der Name des Albumkünstlers ist</string>
     <string name="settings.use_id3">Durchsuchen von ID3-Tags</string>
@@ -366,9 +357,9 @@
     <string name="select_share.empty">Keine Freigaben auf dem Server verfügbar</string>
     <string name="menu_deleted_share">Freigabe löschen</string>
     <string name="menu_deleted_share_error">Löschen der Freigabe %s fehlgeschlagen</string>
-    <string name="settings.share_milliSekunden">Millisekunden</string>
-    <string name="settings.share_Sekunden">Sekunden</string>
-    <string name="settings.share_Minuten">Minuten</string>
+    <string name="settings.share_milliseconds">Millisekunden</string>
+    <string name="settings.share_seconds">Sekunden</string>
+    <string name="settings.share_minutes">Minuten</string>
     <string name="settings.share_hours">Stunden</string>
     <string name="settings.share_days">Tage</string>
     <string name="time_span_disable">Deaktivieren</string>
@@ -450,9 +441,7 @@
     <string name="api.subsonic.upgrade_server">Inkompatible Versionen. Bitte den subsonic Server aktualisieren..</string>
 
     <string name="feature_flags_image_loader_title">Neuen Bild-Lader aktivieren</string>
-    <string name="feature_flags_image_loader_description">
-        Neuen Bild-Lader aktivieren. Bilder werden derzeit nur im Chache gespeichert.
-    </string>
+    <string name="feature_flags_image_loader_description">Neuen Bild-Lader aktivieren. Bilder werden derzeit nur im Chache gespeichert.</string>
     <string name="feature_flags_category_title">Funktionseinstellungem</string>
 
 </resources>
